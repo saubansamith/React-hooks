@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useContext, useEffect } from "react";
 import { CounterContext } from "../CounterContext";
 
 function WithDependency() {
