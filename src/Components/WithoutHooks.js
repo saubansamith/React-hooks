@@ -21,3 +21,5 @@ function WithoutHooks() {
 }
 
 export default WithoutHooks;
+
+export default WithoutHooks;
