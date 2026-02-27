@@ -11,7 +11,7 @@ function WithoutDependency() {
     <div>
       <h2>Without Dependency Array</h2>
       <h3>Count: {count}</h3>
-      <button onClick={() => setCount(count)}>
+      <button onClick={() => setCount(count + 1)}>
         Increase
       </button>
     </div>
